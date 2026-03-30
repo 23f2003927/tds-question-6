@@ -1,0 +1,6 @@
+{
+  "prompt": "An immense city square densely packed with thousands of nearly identical figures wearing grey coats, extending to the horizon. Subtly hidden within the crowd are only three figures dressed in bright red, barely noticeable and almost swallowed by the overwhelming grey mass. The red figures appear tiny and isolated against the vast uniform crowd. Photorealistic, cinematic aerial perspective, natural daylight, physically plausible scene. No text, no labels, no diagrams, no floating elements.",
+  "model": "DALL-E 3",
+  "concept": "Class Imbalance",
+  "metaphor": "Thousands of grey figures represent the majority class; three red figures nearly invisible among them represent the rare minority class, showing how imbalance makes minority detection structurally difficult."
+}
